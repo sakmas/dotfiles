@@ -1,0 +1,16 @@
+{
+    "extensions.ignoreRecommendations": true,
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\cmd.exe",
+    "editor.renderWhitespace": "all",
+    "editor.renderControlCharacters": true,
+    "workbench.colorTheme": "Monokai",
+    "editor.fontFamily": "Consolas, 'Courier New'",
+    "editor.tabSize": 2,
+    "vim.useSystemClipboard": true,
+    "explorer.confirmDragAndDrop": false,
+    "workbench.statusBar.visible": true,
+    "window.zoomLevel": 0,
+    "files.exclude": {
+        "**/node_modules": true
+    }
+}
